@@ -1,0 +1,33 @@
+{
+  "scripts": {
+    "dev": "webpack --mode development",
+    "start": "webpack --mode development --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "@appbaseio/reactivesearch": "^3.1.1",
+    "@elastic/react-search-ui": "^1.2.0",
+    "@material-ui/core": "^4.7.0",
+    "@material-ui/icons": "^4.5.1",
+    "material-ui": "^0.20.2",
+    "material-ui-search-bar": "^0.4.2",
+    "moment": "^2.24.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-google-charts": "^3.0.15",
+    "react-split-pane": "^0.1.89",
+    "react-splitter-layout": "^4.0.0",
+    "semantic-ui-react": "^0.88.1",
+    "underscore": "^1.9.1"
+  }
+}
